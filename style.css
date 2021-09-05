@@ -4,3 +4,8 @@
   --primary-color: #95c949;
   --secondary-color: #c17d4a;
 }
+
+body {
+  font-family: "Satisfy", cursive;
+  margin: 0 auto;
+}
