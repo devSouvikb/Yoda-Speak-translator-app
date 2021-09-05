@@ -5,7 +5,7 @@ let txtOutput = document.querySelector("#output");
 let serverURL = "https://api.funtranslations.com/translate/yoda.json";
 
 function getTranslationURL(text) {
-  return serverURL + "?" + "texr=" + text;
+  return serverURL + "?" + "text=" + text;
 }
 
 function errorHandler(error) {
