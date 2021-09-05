@@ -38,3 +38,17 @@ img {
   border-radius: 24px;
   box-shadow: 0px 10px 10px -5px rgba(0, 0, 0, 0.4);
 }
+
+textarea {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-height: 20vh;
+  margin-top: 2rem;
+  font-size: large;
+  font-family: inherit;
+  border: solid 1.5px;
+  border-radius: 18px;
+  letter-spacing: 3px;
+  padding: 1rem;
+}
