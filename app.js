@@ -12,3 +12,5 @@ function errorHandler(error) {
   console.log("error occured" + error);
   alert("Something is wrong with server please try after sometime.");
 }
+
+btnTranslate.addEventListener("click", clickEventHandler);
