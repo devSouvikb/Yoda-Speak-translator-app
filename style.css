@@ -1,1 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+:root {
+  --primary-color: #95c949;
+  --secondary-color: #c17d4a;
+}
